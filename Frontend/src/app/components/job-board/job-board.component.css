@@ -1,0 +1,44 @@
+.hero{
+  background-image: url('./../../../assets/images/Homepic.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height:480px;
+}
+
+.dropdown-menu{
+  position: absolute;
+  max-height: 200px;
+  overflow-y: auto;
+  background: lightgrey;
+}
+
+/*.dropdown-toggle{*/
+
+  /*border-radius: 5px;*/
+
+/*}*/
+.headingg{
+  font-family: 'Times New Roman', Times, serif;
+  margin-right: -200px;
+  font-size: 30px;
+  color:navy !important;
+  
+}
+.headingg1
+{
+  font-family:'Times New Roman', Times, serif;
+  font-size:18px;
+  margin-right: -290px;
+  margin-top: 50px;
+  color:black !important;
+  font-weight:bold !important;
+}
+.btn
+{
+  margin-right: -600px;
+  margin-top: 90px;
+  font-weight: bold;
+  color:black !important;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+}
